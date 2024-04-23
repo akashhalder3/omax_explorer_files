@@ -1,0 +1,40 @@
+[
+  {
+    "id": "omaxswap",
+    "title": "OMAX swap",
+    "external": false,
+    "internalWallet": true,
+    "priority": null,
+    "logo": "https://swap.omax.app/static/media/logo.cd7911318de2e60e7a1e.png",
+    "logoDarkMode": null,
+    "shortDescription": "A fully decentralized protocol for automated liquidity provision on OAMX.",
+    "categories": ["Swaps", "Liquid staking"],
+    "author": "OMAX",
+    "url": "https://swap.omax.app/swap",
+    "description": "A fully decentralized protocol for automated liquidity provision on OAMX.",
+    "site": "https://swap.omax.app/swap",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "github": null
+  },
+  {
+    "id": "Sphynx",
+    "title": "Sphynx",
+    "external": true,
+    "internalWallet": false,
+    "priority": null,
+    "logo": "https://global-uploads.webflow.com/61f7ce2e0e6cea2cab6c1739/62532c56e3f1c89060d63870_sphynx-labs.jpeg",
+    "logoDarkMode": null,
+    "shortDescription": "All In One Trading Solution.",
+    "categories": ["Swaps", "Liquid staking"],
+    "author": "Guild",
+    "url": "https://thesphynx.co/",
+    "description": "All In One Trading Solution.",
+    "site": "https://thesphynx.co/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "github": null
+  }
+]
