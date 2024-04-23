@@ -36,5 +36,24 @@
     "telegram": null,
     "discord": null,
     "github": null
+  },
+  {
+    "id": "omaxstake",
+    "title": "OMAX stake",
+    "external": false,
+    "internalWallet": true,
+    "priority": null,
+    "logo": "https://swap.omax.app/static/media/logo.cd7911318de2e60e7a1e.png",
+    "logoDarkMode": null,
+    "shortDescription": "Stake on OMAX",
+    "categories": ["Swaps", "Liquid staking"],
+    "author": "OMAX",
+    "url": "https://swap.omax.app/stake",
+    "description": "Stake on OMAX.",
+    "site": "https://swap.omax.app/stake",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "github": null
   }
 ]
