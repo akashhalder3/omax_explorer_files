@@ -24,7 +24,7 @@
     "external": true,
     "internalWallet": false,
     "priority": null,
-    "logo": "https://global-uploads.webflow.com/61f7ce2e0e6cea2cab6c1739/62532c56e3f1c89060d63870_sphynx-labs.jpeg",
+    "logo": "https://raw.githubusercontent.com/akashhalder3/omax_explorer_files/main/public/sphynx.jpg",
     "logoDarkMode": null,
     "shortDescription": "All In One Trading Solution.",
     "categories": ["Swaps", "Liquid staking"],
